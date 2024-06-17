@@ -2,8 +2,6 @@ baseURL: 'https://example.org/'
 title: 'BashMat Site'
 author: 'Matvey Bashlykov'
 
-isMultilingual: false 
-
 languages:
   en:
     languageCode: 'en-US'
@@ -51,3 +49,14 @@ params:
   # Configure footer
   footer:
     enable: true
+
+    template: 'footer.html'
+
+    navigation:
+      enable: true
+
+    contactMe:
+      enable: true
+
+    newsletter:
+      enable: false

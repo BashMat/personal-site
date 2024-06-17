@@ -1,0 +1,20 @@
+section:
+  name: 'About'
+  id: 'about'
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: 'sections/about.html'
+
+designation: 'Software Engineer'
+
+company:
+  name: 'Avicom Business Technologies'
+  url: 'https://www.avicom.ru'
+
+summary: 'I am a junior softwate engineer with almost a year of working experience.'
+
+sociallinks:
+  - name: 'GitHub'
+    icon: 'fab fa-github'
+    url: 'https://www.github.com/BashMat'
