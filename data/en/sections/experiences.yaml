@@ -1,0 +1,25 @@
+section:
+  name: 'Experiences'
+  id: 'experiences'
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: 'Avicom Business Technologies'
+    url: 'https://www.avicom.ru'
+    location: 'Moscow, Russia'
+    overview: 'Avicom Business Tenchnologies is a Russian IT company. Its main product is [ProjectMate](https://www.projectmate.ru/) – a desktop application with an ecosystem of supporting desktop applications and services. It provides a complex tool to manage company by working with projects, finances, legal and client data.'
+  positions:
+  - designation: 'Junior Software Engineer'
+    start: 'Dec 2023'
+    responsibilities:
+    - 'Taking full team member responsibilities, including code review, managing software production releases and helping new interns'
+    - 'Planning and executing required steps to recover and improve infrastructure lost due to shutdown of 2 data centers. This includes improved Amazon S3 structure and security policies, new CI/CD pipelines using Python scripts instead of Powerhshell tasks for new Linux-based data centers and etc.'
+  - designation: 'Intern Software Engineer'
+    start: 'Sep 2023'
+    end: 'Nov 2023'
+    responsibilities:
+    - 'Learning company and team processes and tools, including team`s Agile approach, documentation and products'
+    - 'Implementing both minor and more complex features in internal tools and main desktop application. Used C# for Business Logic, WinForms and WPF for desktop applications and ASP.NET Core for web services, and SQL for database queries, stored procedures and migrations'

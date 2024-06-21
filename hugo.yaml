@@ -30,6 +30,9 @@ params:
 
   features:
 
+    darkMode:
+      enable: true
+
     # Enable portfolio section
     portfolio:
       enable: true

@@ -1,0 +1,21 @@
+section:
+  name: 'Education'
+  id: 'education'
+  tempalte: 'sections/education.html'
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+  - name: 'Master in Applied Mathematics and Computer Science'
+    icon: 'fa-graduation-cap'
+    timeframe: '2023-currently'
+    institution:
+      name: 'National Research University "Moscow Power Engineering Institute"'
+      url: 'https://mpei.ru/Pages/default.aspx'
+  - name: 'Bachelor in Applied Mathematics and Computer Science'
+    icon: 'fa-graduation-cap'
+    timeframe: '2019-2023'
+    institution:
+      name: 'National Research University "Moscow Power Engineering Institute"'
+      url: 'https://mpei.ru/Pages/default.aspx'

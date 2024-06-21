@@ -12,7 +12,7 @@ company:
   name: 'Avicom Business Technologies'
   url: 'https://www.avicom.ru'
 
-summary: 'I am a junior softwate engineer with almost a year of working experience.'
+summary: 'I am a junior software engineer with almost a year of working experience. I like improving myself and learning more. My main focus is backend development. My experience includes various subjects: desktop applications, databases, infrastructure and deployment (nginx, CI/CD, using Prometheus and Grafana for metrics) and a bit of other stuff.'
 
 sociallinks:
   - name: 'GitHub'
