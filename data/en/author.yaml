@@ -1,0 +1,16 @@
+name: 'Matvey Bashlykov'
+nickname: 'BashMat'
+
+greetings: 'Hi! I am'
+
+contactInfo:
+  email: 'bashmatred@yandex.ru'
+  phone: '+7 (xxx) xxx xx xx'
+  github: 'BashMat'
+
+summary:
+  - 'I am a Developer'
+  - 'I am a Software Engineer'
+  - 'I am a Student'
+  - 'I am a Dungeon Master'
+  - 'I like programming, games and fantasy'

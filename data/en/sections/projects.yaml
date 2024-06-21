@@ -1,0 +1,24 @@
+section:
+  name: 'Projects'
+  id: 'projects'
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+buttons:
+- name: 'All'
+  filter: 'all'
+- name: 'Academic'
+  filter: 'academic'
+- name: 'Hobby'
+  filter: 'hobby'
+
+projects:
+- name: 'Task Manager (Backend)'
+  repo: 'https://www.github.com/BashMat/task-manager-backend'
+  summary: 'My first long-term project that I use to practice my development skills. It is a backend project for task management. App supports creating user profiles and managing tasks using Kanban terms for boards and cards.'
+  tags: ['hobby']
+- name: 'Personal Site'
+  repo: 'https://www.github.com/BashMat/personal-site'
+  summary: 'My personal site implemented using Hugo and Toha theme.'
+  tags: ['hobby']

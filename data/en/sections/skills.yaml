@@ -1,0 +1,18 @@
+section:
+  name: 'Skills'
+  id: 'skills'
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: 'C#'
+  logo: '/images/sections/skills/csharpIcon.png'
+  summary: 'C# is my favorite programming language. Currently it is my main language that I use for personal projects and at job.'
+  url: 'https://dotnet.microsoft.com/en-us/languages/csharp'
+- name: 'SQL'
+  summary: 'As primarily a backend and desktop developer, I often use SQL, particularily Transact-SQL with Microsoft SQL Server.'
+  url: 'https://www.microsoft.com/en-us/sql-server/sql-server-2022'
+- name: 'Docker'
+  summary: 'Gained experience using Docker to deploy and manage applications with supporting services (database servers, telemetry collectors and managers such as Prometheus and Grafana).'
+  url: 'https://www.docker.com/'
