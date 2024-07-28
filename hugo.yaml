@@ -28,6 +28,9 @@ params:
   gitRepo: 'github.com/BashMat/personal-site'
   gitBranch: 'main'
 
+  logo:
+    favicon: '/images/site/favicon.png'
+
   features:
 
     darkMode:
